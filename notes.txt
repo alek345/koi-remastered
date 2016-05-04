@@ -1,0 +1,5 @@
+Read the file in, the standard way. Assume the file is UTF-8 encoded.
+
+Then use the libunistring library to convert it to utf32
+
+Then we are good to go
